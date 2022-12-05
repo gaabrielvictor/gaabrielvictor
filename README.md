@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel Victor👋
 
-- 🔭 I’m currently studing on Unifacisa
+- 🔭 I’m currently studing on <a herf ="https://www.unifacisa.edu.br/home">
 - 😄 Pronouns: he
 - ⚡ Fun fact: I like football and video games
