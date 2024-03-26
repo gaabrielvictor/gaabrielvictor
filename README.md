@@ -6,7 +6,7 @@
 - 😄 Front-end developer
 - ⚡ Fun fact: I like football and video games
 
-### 💡 Tech's
+### 💡 Skills
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="Gab-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
