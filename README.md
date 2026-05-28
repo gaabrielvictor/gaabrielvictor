@@ -1,10 +1,7 @@
 ### Hi, I'm Gabriel Victor👋
 
-- I am a junior front-end developer passionate about creating attractive and functional interfaces for the web. I am always eager to learn and improve my skills, staying updated with the latest trends in web development.
-
-- 🔭 I’m currently studing on [Unifacisa](https://www.unifacisa.edu.br/home)
-- 😄 Front-end developer
-- ⚡ Fun fact: I like football and video games
+- 💻 I'm Software Enginner 
+- 💬 Ask me about **Java, React and Angular**!
 
 ### 💡 Skills
 
